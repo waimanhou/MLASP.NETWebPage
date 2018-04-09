@@ -1,1 +1,1 @@
-"# myprojects" 
+This is a testing project of Azure Machine Learning which uploads data using .Net web page .
